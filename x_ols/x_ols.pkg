@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
-d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+D 'x_ols': OLS Estimation with Spatial Standard Errors Use x_ols With STATA 18
+D
+F x_ols.ado
+F x_ols.sthlp
