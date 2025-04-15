@@ -1,7 +1,9 @@
 # x_ols
-OLS Estimation with Spatial Standard Errors Use x_ols With STATA 18
+OLS Estimation with Spatial Standard Errors Use x_ols With STATA 19
 
-Cross Sectional OLS corrected for Spatial Dependence Use x_ols With STATA 18
+Cross Sectional OLS corrected for Spatial Dependence Use x_ols With STATA 19
+
+https://www.youtube.com/watch?v=Aa3reVNKtJc
 
 Olah Data Semarang
 
